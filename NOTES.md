@@ -92,3 +92,5 @@ The scaffolding produced multiple pages that are not yet linked to the root page
 | /users/1/edit | *edit*   | page to edit user with ide **1** |
 
 
+
+
